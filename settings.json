@@ -1,0 +1,22 @@
+{
+  "editor.fontFamily": "Cascadia Code, Operator Mono, Fira Code",
+  "editor.fontSize": 14,
+  "editor.fontWeight": "500",
+  "editor.fontVariations": false,
+  "editor.cursorWidth": 6,
+  "editor.lineHeight": 20,
+  "editor.fontLigatures": "terminal.integrated.cursorWidth",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorBlinking": "expand",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "shs.serverPort": 9000,
+  "editor.detectIndentation": false,
+  "workbench.colorTheme": "Shades of Purple (Super Dark)",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.colorCustomizations": {
+    "editorGroupHeader.tabsBackground": "#162681",
+    "activityBar.background": "#162681",
+    "sideBar.background": "#090d23",
+  },
+}
